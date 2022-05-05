@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @cahuamalveira
-- 🌱 I’m currently learning Python
-- 📫 How to reach me cahuamalveira@gmail.com
+- 🌱 I’m currently learning Python, HTML/CSS and Javascript.
+- :books: I am currently studying Software Analysis and Development at the Pontifical Catholic University of Goiás. (PUC - Goiás).
+- 📫 How to reach me cahuamalveira@gmail.com or https://www.linkedin.com/in/cahuã-malveira-896913218/
